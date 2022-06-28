@@ -57,5 +57,7 @@ Copy files from the previous task.
 Last piece of the page… the Footer!
 
 When you are done, here the result:
-![Desktop](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220627T214655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=83f3c08c0c3cc06600b0bcf816864ab8e5f5d9cab3ed61b4154f40466f73d089)
-![Mobile](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220627T214655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9d13c168837b257c9cbd190e6a1bc553d81608acadc025f4c2b6a6d0eb1f0c53)
+### Desktop
+![Desktop](https://i.imgur.com/PN3DnOF.gif)
+### Mobile:
+![Mobile](https://i.imgur.com/g0Wnp9U.gif)
